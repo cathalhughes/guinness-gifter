@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Idli",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611354/dummy-products/food/idli.jpg",
+    "price": 0.99,
+    "label": "4 pieces",
+    "rating": 4
+  },
+  {
+    "name": "Dosa",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611353/dummy-products/food/dosa.jpg",
+    "price": 0.57,
+    "label": "1 piece",
+    "rating": 5
+  },
+  {
+    "name": "Puri",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611355/dummy-products/food/puri.jpg",
+    "price": 3.0,
+    "label": "2 pieces",
+    "rating": 3
+  },
+  {
+    "name": "Pongal",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611355/dummy-products/food/pongal.jpg",
+    "price": 9.99,
+    "label": "1 plate",
+    "rating": 4
+  },
+  {
+    "name": "Roti",
+    "isVegetarian": true,
+    "cuisine": "North Indian",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611356/dummy-products/food/roti.jpg",
+    "price": 4.5,
+    "label": "2 pieces",
+    "rating": 5
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "isVegetarian": true,
+    "cuisine": "North Indian",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611354/dummy-products/food/paneer-butter-masala.jpg",
+    "price": 4.50,
+    "label": "1 bowl",
+    "rating": 4
+  },
+  {
+    "name": "Vada",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611356/dummy-products/food/vada.jpg",
+    "price": 1.13,
+    "label": "2 pieces",
+    "rating": 5
+  },
+  {
+    "name": "Parotta",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611354/dummy-products/food/parotta.jpg",
+    "price": 7.89,
+    "label": "2 pieces",
+    "rating": 2
+  },
+  {
+    "name": "Chicken Briyani",
+    "isVegetarian": false,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611353/dummy-products/food/chicken-briyani.jpg",
+    "price": 2.0,
+    "label": "1/2 plate",
+    "rating": 5
+  },
+  {
+    "name": "Mutton Briyani",
+    "isVegetarian": false,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611354/dummy-products/food/mutton-briyani.jpg",
+    "price": 3.0,
+    "label": "1/2 plate",
+    "rating": 4
+  },
+  {
+    "name": "Fried Chicken Noodles",
+    "isVegetarian": false,
+    "cuisine": "Chinese",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611355/dummy-products/food/fried-noodles.jpg",
+    "price": 2.75,
+    "label": "1 plate",
+    "rating": 3
+  },
+  {
+    "name": "Grilled Chicken",
+    "isVegetarian": false,
+    "cuisine": "Arab",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611353/dummy-products/food/grilled-chicken.jpg",
+    "price": 10,
+    "label": "1/2 plate",
+    "rating": 5
+  },
+  {
+    "name": "Tandoori Chicken",
+    "isVegetarian": false,
+    "cuisine": "Arab",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611356/dummy-products/food/tandoori-chicken.jpg",
+    "price": 4.0,
+    "label": "1/2 plate",
+    "rating": 4
+  },
+  {
+    "name": "Chicken Lollypop",
+    "isVegetarian": false,
+    "cuisine": "Chinese",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611355/dummy-products/food/chicken-lollipop.jpg",
+    "price": 5.0,
+    "label": "1 plate",
+    "rating": 3
+  },
+  {
+    "name": "Chicken 65",
+    "isVegetarian": false,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1534611353/dummy-products/food/chicken-65.jpg",
+    "price": 3.50,
+    "label": "1 plate",
+    "rating": 4
+  }
+]
